@@ -17,8 +17,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth-krishna-1234&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vineeth-krishna-1234&show_icons=true&locale=en" alt="vineeth-krishna-1234" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vineeth-krishna-1234&" alt="vineeth-krishna-1234" /></p>
