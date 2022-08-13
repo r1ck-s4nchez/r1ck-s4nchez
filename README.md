@@ -23,6 +23,8 @@
 #👑Trophies:
  ----------------------------------------------
 ![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+ ----------------------------------------------
+ <iframe src="https://giphy.com/embed/l41lI4bYmcsPJX9Go" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-adult-swim-rick-and-morty-l41lI4bYmcsPJX9Go">via GIPHY</a></p>
 
 ------------------------------------------------
 [![](https://visitcount.itsvg.in/api?id=vineeth-krishna-1234&icon=9&color=12)](https://visitcount.itsvg.in)
