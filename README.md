@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm vineeth krishna</h1>
 <h3 align="center">A programmer for funn!</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234" alt="vineeth-krishna-1234" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -27,8 +24,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
  
-#👑Trophies
- ![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+#👑Trophies:
+ ----------------------------------------------
+![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ------------------------------------------------
 [![](https://visitcount.itsvg.in/api?id=vineeth-krishna-1234&icon=9&color=12)](https://visitcount.itsvg.in)
