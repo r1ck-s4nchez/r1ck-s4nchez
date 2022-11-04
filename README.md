@@ -20,13 +20,13 @@
  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
  </p>
 
-# 🕺Stats:
+🕺Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth-krishna-1234&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
  
-#👑Trophies:
+👑Trophies:
  ----------------------------------------------
 ![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
  ----------------------------------------------
