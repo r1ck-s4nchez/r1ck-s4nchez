@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <br /><br />
 📜 Frameworks:<br />
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-<img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest" width="40" height="40"/>
+<img src="https://www.django-rest-framework.org/img/logo.png" alt="django rest" width="80" height="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/><br /><br />
@@ -38,7 +38,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /><br /><br />
  </p>
  
-----------------------------------------------
 🕺Stats:
 -----------------------------------------------
 ![](https://github-readme-stats.vercel.app/api?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
