@@ -60,4 +60,5 @@
 <a href="https://instagram.com/vineeth._krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineeth._krishna" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/r1ck_s4nchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r1ck_s4nchez" height="30" width="40" /></a>
 </p>
-![](https://visitcount.itsvg.in/api?id=vineeth-krishna-1234&icon=9&color=12)](https://visitcount.itsvg.in)
+--------------------------------------------------
+[![](https://visitcount.itsvg.in/api?id=vineeth-krishna-1234&icon=9&color=12)](https://visitcount.itsvg.in)
