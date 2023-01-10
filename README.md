@@ -40,14 +40,15 @@
  
 🕺Stats:
 -----------------------------------------------
-![](https://github-readme-stats.vercel.app/api?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth-krishna-1234&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth-krishna-1234&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=vineeth-krishna-1234&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth-krishna-1234&theme=chartreuse-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth-krishna-1234&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
  
  
 👑Trophies:
  ----------------------------------------------
-![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
  ----------------------------------------------
 
 ![rick-and-morty-rick](https://user-images.githubusercontent.com/77538493/184478124-2d19ecf0-0ef9-450b-b20b-85f30e73ebf6.gif)
