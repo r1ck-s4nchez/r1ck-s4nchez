@@ -2,7 +2,7 @@
 ![WhatsApp Image 2022-08-13 at 3 45 58 PM (1)](https://user-images.githubusercontent.com/77538493/184479411-3cff770b-2c59-4239-85e6-4ec58cb1fddf.jpeg)
 <h3 align="center">A programmer for funn!</h3>
 <h3 align="left">😉 portfolio:</h3>
-<a href="https://vineeth-krishna.000webhostapp.com/">Take a peek❤️</a>
+<a href="https://dev-portfolio-kbrliyyii-vineeth-krishna-1234.vercel.app/">Take a peek❤️</a>
 <h2 align="left">skills</h2>
 <p align="left">
 😎 Languages:<br />
