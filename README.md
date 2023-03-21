@@ -58,18 +58,6 @@ Tools & Packages:<br></br>
 
 ![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
---------------------------------------------------
-
-![](https://embed.lottiefiles.com/animation/19934)
-
----------------------------------------------------
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rick_sancherz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rick_sancherz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vineeth-krishna-407838249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineeth-krishna-407838249" height="30" width="40" /></a>
-<a href="https://instagram.com/vineeth._krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vineeth._krishna" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/r1ck_s4nchez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="r1ck_s4nchez" height="30" width="40" /></a>
-</p>
+<a href="https://linktr.ee/vineeth_krishna?utm_source=linktree_admin_share"><h2>connect with me</h2></a>
 
 [![](https://visitcount.itsvg.in/api?id=vineeth-krishna-1234&icon=9&color=12)](https://visitcount.itsvg.in)
