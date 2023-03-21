@@ -54,17 +54,15 @@ Tools & Packages:<br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vineeth-krishna-1234&theme=chartreuse-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vineeth-krishna-1234&theme=chartreuse-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-👑Trophies:
-
----
+## 👑Trophies:
 
 ![](https://github-profile-trophy.vercel.app/?username=vineeth-krishna-1234&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
 
----
+--------------------------------------------------
 
-![rick-and-morty-rick](https://user-images.githubusercontent.com/77538493/184478124-2d19ecf0-0ef9-450b-b20b-85f30e73ebf6.gif)
+![](https://embed.lottiefiles.com/animation/19934)
 
----
+---------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
