@@ -1,4 +1,3 @@
-![Header](github-header-image.png)
 
 
 <p align="left">
